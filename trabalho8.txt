@@ -1,0 +1,8 @@
+total 49
+drwxr-xr-x 1 rafhaeltavaress 1049089     0 Sep 22 20:19 ./
+drwxr-xr-x 1 rafhaeltavaress 1049089     0 Sep 22 20:12 ../
+drwxr-xr-x 1 rafhaeltavaress 1049089     0 Sep 22 20:17 .git/
+-rw-r--r-- 1 rafhaeltavaress 1049089 32465 Sep 22 20:17 Imagem_exemplo_modelo_logico.jpg
+-rw-r--r-- 1 rafhaeltavaress 1049089  1086 Sep 22 20:12 LICENSE
+-rw-r--r-- 1 rafhaeltavaress 1049089    62 Sep 22 20:12 README.md
+-rw-r--r-- 1 rafhaeltavaress 1049089     0 Sep 22 20:19 trabalho8.txt
